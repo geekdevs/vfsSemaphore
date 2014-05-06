@@ -1,2 +1,4 @@
 vfsSemaphore
 ============
+
+Basic semaphore functionality.

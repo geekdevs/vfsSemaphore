@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "We2o": "src/"
+        }
+    },
+
+    "require": {
+        "php": ">=5.5.0",
+        "mikey179/vfsStream": "dev-master",
+        "psr/log": "dev-master"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    }
+}
